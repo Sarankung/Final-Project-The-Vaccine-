@@ -1,0 +1,37 @@
+@charset "utf-8";
+.normal {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	color: #000;
+}
+.normal2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+.normal3 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #F00;
+}
+.normal4 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	color: #FFF;
+}
+a:link {
+	color: #00F;
+	text-decoration: none;
+}
+a:visited {
+	color: #00F;
+	text-decoration: none;
+}
+a:hover {
+	color: #F00;
+	text-decoration: none;
+}
+a:active {
+	color: #00F;
+	text-decoration: none;
+}
